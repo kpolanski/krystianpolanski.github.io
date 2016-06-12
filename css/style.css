@@ -93,6 +93,13 @@ body {
 
 }
 
+.about__content--background{
+	display: block;
+	position: relative;
+	background-color: #fff;
+	top:50px;
+}
+
 .about__content{
 	display: block;
 	position: relative;
